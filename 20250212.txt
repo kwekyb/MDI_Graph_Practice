@@ -1,0 +1,15 @@
+1. 구문 해설
+1. There are ~ (존재 구문)
+There is/are 구문은 "~가 있다"라는 의미를 나타내며, 주어가 뒤따라 나옴.
+여기서 a multitude of organizations (다수의 조직들)이 진짜 주어.
+2. a multitude of (다수의)
+a multitude of + 복수 명사 → "많은 ~"
+multitude 자체는 단수 취급이지만, 뒤에 오는 명사가 복수형(organizations)이므로 동사는 are 사용.
+3. 분사구문: dealing with ~
+dealing with the production of test methods and standards
+dealing with → 현재분사 (organizations를 수식)
+의미: "시험 방법과 표준의 생산을 다루는"
+4. 관계된 표현: related to ~
+related to the overall behavior and performance of materials
+related to → 과거분사 (test methods and standards를 수식)
+의미: "재료의 전반적인 거동과 성능과 관련된"
